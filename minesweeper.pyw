@@ -1,7 +1,3 @@
-# TODO:
-# Win screen
-# restart
-
 import pygame, math, random
 
 def main():
